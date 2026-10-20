@@ -3,7 +3,7 @@ import itertools
 import sys
 import yaml
 
-with open('C:/Windows/System32/atlas-industrie/data/vlans.yml', encoding='utf-8') as f: 
+with open('data/vlans.yml', encoding='utf-8') as f: 
           vlans = yaml.safe_load(f)['vlans']
 errors = []
 ids = [v['id'] for v in vlans]
