@@ -1,0 +1,6 @@
+required:
+   - 'passive-interface default'
+   - 'ip ssh version 2' 
+forbidden:
+   - 'transport input .*telnet'
+   - 'snmp-server community (public|private)'
