@@ -1,4 +1,4 @@
-import pathlib import re 
+import pathlib import r
 import sys 
 import yaml 
 
