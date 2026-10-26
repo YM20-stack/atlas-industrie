@@ -2,14 +2,14 @@
 
 ## 1. What was implemented 
 
-OSPF Deployment between CC-A and CC-B
-VRF-Lite Segmentation
-VRRP High Availability
-Inter-VRF Connectivity Through Firewalls
-Secure Management Services
-Layer-2 Security
-Testing the flows through 11 tests
-Investigation of the 3 faults
+.OSPF Deployment between CC-A and CC-B
+.VRF-Lite Segmentation
+.VRRP High Availability
+.Inter-VRF Connectivity Through Firewalls
+.Secure Management Services
+.Layer-2 Security
+.Testing the flows through 11 tests
+.Investigation of the 3 faults
 
 ## 2. The eleven tests and their results 
 
@@ -93,7 +93,11 @@ Result : the OSPF neighbor finally went FULL according to the data given via the
 3. For Fault C, the measure that gave 0 OSPF neighbor formed is only for the capability for an adjacency to be formed, no convergence time measured. 
 
 ## 5. Accepted limits
--Behaviour of the firewall pair not tested
--Absence of the deployment of 802.1X 
--MAC filtering on the OT ports accepted depite the weakness of that measure
--Compliance check compares character strings and does not validate the behaviour of the network
+.Behaviour of the firewall pair not tested
+.Absence of the deployment of 802.1X 
+.MAC filtering on the OT ports accepted depite the weakness of that measure
+.Compliance check compares character strings and does not validate the behaviour of the network
+
+
+
+
