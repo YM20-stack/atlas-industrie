@@ -2,14 +2,14 @@
 
 ## 1. What was implemented 
 
--OSPF Deployment between CC-A and CC-B
--VRF-Lite Segmentation
--VRRP High Availability
--Inter-VRF Connectivity Through Firewalls
--Secure Management Services
--Layer-2 Security
--Testing the flows through 11 tests
--Investigation of the 3 faults
+OSPF Deployment between CC-A and CC-B
+VRF-Lite Segmentation
+VRRP High Availability
+Inter-VRF Connectivity Through Firewalls
+Secure Management Services
+Layer-2 Security
+Testing the flows through 11 tests
+Investigation of the 3 faults
 
 ## 2. The eleven tests and their results 
 
