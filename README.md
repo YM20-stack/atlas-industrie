@@ -15,4 +15,3 @@ Localcheck: `python3 scripts/check\_vlans.py` from the repository root.
 
 
 Local IPv6 prefix : c684828955a0
-

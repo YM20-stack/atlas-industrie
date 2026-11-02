@@ -3,4 +3,8 @@ required:
    - 'ip ssh version 2' 
 forbidden:
    - 'transport input .*telnet'
+<<<<<<< HEAD
    - 'snmp-server community (public|private)'
+=======
+   - 'snmp-server community (public|private)'
+>>>>>>> 2ee5e99f9f07821bb79fc0f3d19fef72938b4fc4

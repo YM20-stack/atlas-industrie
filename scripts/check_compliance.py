@@ -24,4 +24,8 @@ for cfg in files:
 for e in errors: 
   print(e)
 print(f'{len(files)} configuration(s) checked, {len(errors)} deviation(s)')
+<<<<<<< HEAD
 sys.exit(1 if errors else 0)
+=======
+sys.exit(1 if errors else 0)
+>>>>>>> 2ee5e99f9f07821bb79fc0f3d19fef72938b4fc4
