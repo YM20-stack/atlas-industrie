@@ -1,7 +1,7 @@
 import ipaddress
 import itertools
 import sys
-import yaml 
+import yaml
 
 with open('data/vlans.yml', encoding='utf-8') as f: 
           vlans = yaml.safe_load(f)['vlans']
