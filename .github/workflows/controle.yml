@@ -10,8 +10,5 @@ jobs:
                        python-version: '3.12'
 
                  - run: pip install pyyaml
-<<<<<<< HEAD
+
                  - run: python3 scripts/check_vlans.py
-=======
-                 - run: python3 scripts/check_vlans.py
->>>>>>> 2ee5e99f9f07821bb79fc0f3d19fef72938b4fc4
